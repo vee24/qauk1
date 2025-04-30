@@ -1,1 +1,2 @@
-Template files for QA test sites.
+Primary test site on UK environment.
+
